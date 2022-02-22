@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "Playfair Display";
+  src: url("../../../etc/assets/ff/playfair-display/PlayfairDisplay-Black.otf") format("OpenType");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("../../../etc/assets/ff/montserrat/PlayfairDisplay-Black.otf") format("TrueType");
+}
+@font-face {
+  font-family: "Segoe UI";
+  src: url("../../../etc/assets/ff/segoe-ui/PlayfairDisplay-Black.otf") format("TrueType");
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../../../etc/assets/ff/open-sans/PlayfairDisplay-Black.otf") format("TrueType");
+}
+@font-face {
+  font-family: "Anton";
+  src: url("../../../etc/assets/ff/anton/PlayfairDisplay-Black.otf") format("TrueType");
+}
+:root {
+  --ff-main: "Montserrat";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #161627;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 240px;
+}
+
+.card--wrapper {
+  position: relative;
+  padding-top: 4rem;
+  width: 100%;
+}
+
+.schedule--card {
+  position: relative;
+  background: #c0c0c0 url("../../../etc/assets/c0v-members/pexels-freestocksorg-64057.jpg") center center/cover no-repeat;
+  padding: 1em;
+  overflow: hidden;
+  border-bottom: 2px solid gold;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  margin-bottom: 1em;
+}
+.schedule--card .card--container .event--status {
+  margin-bottom: 1em;
+}
+
+/*# sourceMappingURL=style.css.map */
