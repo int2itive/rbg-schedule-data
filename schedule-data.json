@@ -1,0 +1,26 @@
+{
+    "schedule": [
+        {
+            "artist": {
+	        	"name": "Cezanne Poetess",
+	        	"performs": "Spoken Word/Poetry",
+	        	"img": "",
+	        	"orig": "Jam",
+	        	"graphic": ""
+	        },
+            "status": "Headline",
+            "time": "20:20",
+            "duration": "30",
+	    },
+        {
+            "time": "18:15",
+            "duration": "30",
+            "type": "Headline",
+            "artist": {
+	        	"name": "Cezanne Poetess",
+	        	"performs": "Spoken Word/Poetry",
+	        	"orig": "Jam"
+	        }
+	    }
+	]
+}
