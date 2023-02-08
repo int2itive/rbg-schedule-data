@@ -2,25 +2,152 @@
     "schedule": [
         {
             "artist": {
-	        	"name": "Cezanne Poetess",
-	        	"performs": "Spoken Word/Poetry",
-	        	"img": "",
-	        	"orig": "Jam",
-	        	"graphic": ""
-	        },
-            "status": "Headline",
-            "time": "20:20",
-            "duration": "30",
-	    },
+               "name": "Ngoma Bishop",
+               "performs": "Spoken Word",
+               "orig": "Barbados/UK",
+               "img": "",
+               "flag": "#jm",
+                "contact": {
+                    "phone": "+44 7905 708777",
+                    "email": "ngomabishop@gmail.com"
+                },
+                "info": {
+                    "first_appearance": "",
+                    "most_recent": "",
+                    "comments": ""
+                }
+            },
+            "time": "18:45",
+            "duration": "5mins"
+            "status": "Guest"
+        },
         {
-            "time": "18:15",
-            "duration": "30",
-            "type": "Headline",
             "artist": {
-	        	"name": "Cezanne Poetess",
-	        	"performs": "Spoken Word/Poetry",
-	        	"orig": "Jam"
-	        }
-	    }
-	]
+                "name": "Tamara Gabriel",
+                "performs": "Poetry",
+                "orig": "Dom",
+                "img": "./../../etc/assets/rbg/clips/RD-Head-234546-ver1.jpg",
+                "contact": "",
+                "flag": ""
+                "contact": {
+                    "phone": "+44 7960 976920",
+                    "email": "vanderpeter7@googlemail.com"
+                },
+                "info": {
+                    "first_appearance": "",
+                    "most_recent": "",
+                    "comments": ""
+                }
+            },
+            "time": "19:25",
+            "duration": "10mins",
+            "status": "Guest"
+        },
+        {
+            "artist": {
+                "name": "Shermya",
+                "performs": "Poetry/Spoken Word",
+                "orig": "n/a",
+                "img": "../../../etc/assets/rbg/clips/LE-20201030-C0-V-03.jpg",
+                "flag": ""
+                "contact": {
+                    "phone": "+44 7889 291292",
+                    "email": "smodupe@hotmail.co.uk"
+                },
+                "info": {
+                    "first_appearance": "",
+                    "most_recent": "",
+                    "comments": ""
+                }
+            },
+            "time": "19:35",
+            "duration": "10mins",
+            "status": "Guest"
+        },
+        {
+            "artist": {
+                "name": "Yemisi",
+                "performs": "Spoken Word",
+                "orig": "Nig",
+                "img": "../../../etc/assets/c0v-members/profile-placeholder.png",
+                "flag": "#ja"
+                "contact": {
+                    "phone": "+44(0)7930 884013",
+                    "email": "yemisijeg@hotmail.co.uk"
+                },
+                "info": {
+                    "first_appearance": "",
+                    "most_recent": "",
+                    "comments": ""
+                }
+            },
+            "time": "20:05",
+            "duration": "15mins",
+            "status": "Guest"
+        },
+        {
+            "artist": {
+                "name": "Dominic Phillips",
+                "performs": "Spoken Word",
+                "orig": "Jam",
+                "img": "../../../etc/assets/c0v-members/profile-placeholder.png",
+                "flag": "#ja"
+                "contact": {
+                    "phone": "+44(0)7584 255755",
+                    "email": "domperei@yahoo.co.uk"
+                },
+                "info": {
+                    "first_appearance": "",
+                    "most_recent": "",
+                    "comments": ""
+                }
+            },
+            "time": "20:05",
+            "duration": "15mins",
+            "status": "Guest"
+        },
+        {
+            "artist": {
+                "name": "Yvonne Roberts",
+                "performs": "Spoken Word/Poetry",
+                "orig": "Jam",
+                "img": "../../../etc/assets/c0v-members/profile-placeholder.png",
+                "flag": "#ja"
+                "contact": {
+                    "phone": "+44(0)7904 111202",
+                    "email": "yvonne.roberts48@gmail.com"
+                },
+                "info": {
+                    "first_appearance": "",
+                    "most_recent": "",
+                    "comments": ""
+                }
+            },
+            "time": "20:05",
+            "duration": "15mins",
+            "status": "Guest"
+        },
+        {
+            "artist": {
+                "name": "Kandake Makonnen",
+                "performs": "Hosting",
+                "orig": "Jam",
+                "img": "../../../etc/assets/c0v-members/profile-placeholder.png",
+                "flag": "#ng"
+                "contact": {
+                    "phone": "+44(0)7949 713639",
+                    "email": "kandake1@yahoo.com"
+                },
+                "info": {
+                    "first_appearance": "",
+                    "most_recent": "",
+                    "comments": ""
+                }
+            },
+            "time": "20:05",
+            "duration": "15mins",
+            "status": "Guest"
+        }
+   ],
+   "date": "25/03/2022"
 }
